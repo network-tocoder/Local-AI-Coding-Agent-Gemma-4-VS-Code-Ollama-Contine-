@@ -1,6 +1,6 @@
 # 🤖 Local AI Coding Agent — Gemma 4 + VS Code
 
-![GitHub stars](https://img.shields.io/github/stars/kskroyal/gemma4-vscode-agent?style=for-the-badge&color=purple)
+
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Mac%20%7C%20Linux-blue?style=for-the-badge)
 ![Cost](https://img.shields.io/badge/Cost-Zero-brightgreen?style=for-the-badge)
