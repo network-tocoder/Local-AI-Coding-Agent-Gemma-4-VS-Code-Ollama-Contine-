@@ -349,7 +349,7 @@ MIT License — free to use, modify and share.
 
 ## 🔗 Links
 
-[![YouTube](https://img.shields.io/badge/YouTube-KSK%20Royal-red?style=for-the-badge&logo=youtube)](https://youtube.com/@kskroyal)
+[![YouTube](https://img.shields.io/badge/YouTube-NetworkCoder-red?style=for-the-badge&logo=youtube)](https://youtube.com/@kskroyal)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/kskroyal)
 
 ---
