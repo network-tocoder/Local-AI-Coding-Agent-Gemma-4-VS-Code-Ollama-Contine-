@@ -5,6 +5,9 @@
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Mac%20%7C%20Linux-blue?style=for-the-badge)
 ![Cost](https://img.shields.io/badge/Cost-Zero-brightgreen?style=for-the-badge)
 ![Cloud](https://img.shields.io/badge/Cloud-Not%20Required-red?style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VS%20Code-1.89+-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Ollama](https://img.shields.io/badge/Ollama-Local%20Server-black?style=for-the-badge)
+![Gemma 4](https://img.shields.io/badge/Gemma%204-Google-4285F4?style=for-the-badge&logo=google)
 
 > **Replace GitHub Copilot with a fully local, free, autonomous coding agent running on your own hardware.**
 
