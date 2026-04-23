@@ -13,8 +13,7 @@
 ---
 
 ## 📺 Watch the Full Video
-
-[![YouTube](https://img.shields.io/badge/YouTube-Watch%20Now-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@kskroyal)
+[![YouTube](https://img.shields.io/badge/YouTube-Watch%20Now-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=2qFcbRK1qDE)
 
 > *I built a complete startup landing page — 3 files, features, pricing, animations — in under 15 minutes. Zero cost. 100% offline. This repo is the full setup guide.*
 
